@@ -11,8 +11,12 @@ I also tried to find co-relation between equality in the organizations and cultu
 
 This project consists of three main Jupyter notebooks and several datasets:
 
-scraping_indeed.ipynb contains code for scraping and cleaning indeed.com data for the list of companies.
+        scraping_indeed.ipynb contains code for scraping and cleaning indeed.com data for the list of companies.
 
-data_building.ipynb is the code for cleaning, merging, generating data to get it ready for analysis
+        data_building.ipynb is the code for cleaning, merging, generating data to get it ready for analysis
 
-analysis.ipynb is mostly graphs and simple analytics performed on the data.
+        analysis.ipynb is mostly graphs and simple analytics performed on the data.
+        
+Data files are in the ./data directory, they are just sample files, as the originals seem to be too large to include into the project
+
+
